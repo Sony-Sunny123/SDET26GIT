@@ -3,9 +3,13 @@ package practice;
 import org.junit.Test;
 
 public class GitPractice {
-	public static void main(String args[])
+	
+	@Test
+	public void git()
 	{
-		System.out.println("sussess");
+		System.out.println("success");
 	}
+		
+	
 
 }
